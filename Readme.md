@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Utku Erdemir
 ### Software Engineer & Industrial Engineer
 
@@ -7,7 +6,6 @@
 I have nearly 13 years of experience in software development, including 10 years in professional roles, spanning mobile and web applications, DevOps practices, and cloud-based architectures. With a dual degree in **Software Engineering** and **Industrial Engineering**, I bridge the gap between business requirements and scalable, sustainable technical solutions.
 
 ## 🚀 About Me
-- 🔭 I’m currently working as **Head of Software Engineering** at YUKATech Bilişim A.Ş
 - 🌱 I’m currently focused on **AI Agent Design** and building automated, decision-support systems.
 - 👯 I’m looking to collaborate on high-performance projects utilizing Go or Node.js.
 - 📖 I love to read, explore different cultures, and continuously learn new technologies. For me, a day without learning something new feels incomplete!
@@ -36,6 +34,8 @@ I have nearly 13 years of experience in software development, including 10 years
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
 ### DevOps, Cloud & Databases
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -44,7 +44,7 @@ I have nearly 13 years of experience in software development, including 10 years
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ### AI & Automation
 ![LLMs & AI Agents](https://img.shields.io/badge/LLMs_&_AI_Agents-FF3E00?style=for-the-badge&logo=openai&logoColor=white)
-
